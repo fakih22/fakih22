@@ -1,12 +1,10 @@
 🚀 **Full Stack Developer | System Analyst | Database Engineer**
 
-I am a Full Stack Developer with a strong passion for designing, analyzing, and developing digital solutions that solve real business challenges. My experience covers the complete software development lifecycle, from requirements gathering and system analysis to database design, application development, testing, deployment, and maintenance.
+I am a Full Stack Developer passionate about designing, analyzing, and developing digital solutions that solve real-world business challenges. My experience spans the entire software development lifecycle, from requirements analysis and system design to database architecture, application development, testing, deployment, and maintenance.
 
-I specialize in building modern web and mobile applications using technologies such as Next.js, Laravel, Flutter, PHP, React, and Dart. Beyond coding, I have a solid understanding of System Analysis and Design, including business process modeling, UML diagrams, Entity Relationship Diagrams (ERD), Logical Record Structures (LRS), database normalization, and software documentation.
+I specialize in building modern web and mobile applications using Next.js, Laravel, Flutter, PHP, React, and Dart. Beyond development, I have strong expertise in System Analysis and Design, including business process modeling, UML, ERD, LRS, database normalization, and software documentation.
 
-I enjoy translating complex business requirements into scalable, efficient, and user-friendly applications. My expertise extends to designing robust database architectures with MySQL, Firebase, and Supabase, as well as creating intuitive user interfaces and prototypes using Figma.
-
-Currently, I am focused on improving my software engineering skills, exploring modern development practices, and building high-quality applications that deliver real value to users and organizations. I believe that great software is not only about writing code but also about understanding problems, designing effective solutions, and continuously improving through innovation and learning.
+My expertise also includes designing scalable database solutions with MySQL, Firebase, and Supabase, as well as creating intuitive UI/UX prototypes using Figma. I am continuously improving my software engineering skills and exploring modern technologies to build efficient, scalable, and user-focused digital products.
 
 ---
 
