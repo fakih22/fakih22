@@ -1,11 +1,10 @@
 🚀 **Full Stack Developer | System Analyst | Database Engineer**
 
-I am a Full Stack Developer passionate about designing, analyzing, and developing digital solutions that solve real-world business challenges. My experience spans the entire software development lifecycle, from requirements analysis and system design to database architecture, application development, testing, deployment, and maintenance.
+I am a Full Stack Developer with experience in web and mobile application development. My background includes system analysis, database design, software architecture, application development, testing, deployment, and maintenance.
 
-I specialize in building modern web and mobile applications using Next.js, Laravel, Flutter, PHP, React, and Dart. Beyond development, I have strong expertise in System Analysis and Design, including business process modeling, UML, ERD, LRS, database normalization, and software documentation.
+I work with technologies such as Next.js, Laravel, Flutter, PHP, React, and Dart, while also having a solid understanding of System Analysis and Design, including UML, ERD, LRS, database normalization, business process modeling, and software documentation.
 
-My expertise also includes designing scalable database solutions with MySQL, Firebase, and Supabase, as well as creating intuitive UI/UX prototypes using Figma. I am continuously improving my software engineering skills and exploring modern technologies to build efficient, scalable, and user-focused digital products.
-
+My experience extends to database management using MySQL, Firebase, and Supabase, as well as UI/UX prototyping with Figma. I am committed to continuous learning and applying modern development practices to create reliable and scalable software solutions.
 ---
 
 ### 🚀 Frameworks & Technologies
